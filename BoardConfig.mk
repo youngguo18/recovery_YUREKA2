@@ -15,7 +15,7 @@
 #
 # Copyright (C) 2018 OrangeFox Recovery Project
 #
-LOCAL_PATH := device/cmdc/taco
+LOCAL_PATH := device/yu/YUREKA2
 
 ## Architecture
 TARGET_ARCH := arm64

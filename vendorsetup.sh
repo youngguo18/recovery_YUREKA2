@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_taco-eng
-add_lunch_combo omni_taco-userdebug
+add_lunch_combo omni_YUREKA2-eng
+add_lunch_combo omni_YUREKA2-userdebug

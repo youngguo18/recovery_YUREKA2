@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_taco.mk
+	$(LOCAL_DIR)/omni_YUREKA2.mk
