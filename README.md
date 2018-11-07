@@ -1,6 +1,6 @@
 TeamWin Recovery Project
 
-# Device Tree for YU Yureka 2(Taco)
+# Device Tree for YU Yureka 2(YUREKA2)
 
 ## Spec Sheet
 
