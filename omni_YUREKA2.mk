@@ -30,10 +30,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 PRODUCT_PACKAGES += \
     charger_res_images
 
-# Encryption
-PRODUCT_PACKAGES += \
-    libcryptfs_hw
-
 # Kernel
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/Image.gz-dtb:kernel
