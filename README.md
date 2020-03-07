@@ -25,4 +25,8 @@ TeamWin Recovery Project
 
 ![YU Yureka 2](https://cdn2.gsmarena.com/vv/pics/yureka/yu-yureka2-yu5551-1.jpg "YU Yureka 2")
 
+To compile:
+```
+. build/envsetup.sh && breakfast YUREKA2 eng && mka recoveryimage
+```
 
